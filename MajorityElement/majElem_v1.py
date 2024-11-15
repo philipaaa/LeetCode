@@ -18,7 +18,7 @@ class Solution(object):
 
     Memory
         13.00 MB
-        beats 55.04%
+        Beats 55.04%
     """
         
         
